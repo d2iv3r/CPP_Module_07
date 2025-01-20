@@ -1,4 +1,4 @@
-# C++ Module: C++ Templates
+# C++ Module 07:
 
 ## Overview
 
